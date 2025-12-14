@@ -6,7 +6,7 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
-    image: zhaopin_v1
+    image: zhaopin:v1
     ports:
       - "3000:3000"
     restart: unless-stopped
