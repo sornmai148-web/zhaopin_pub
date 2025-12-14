@@ -1,0 +1,89 @@
+{
+  "common": {
+    "home": "首页",
+    "choose-language": "选择语言",
+    "coptyright": "版权所有 © {year} 小雨网",
+    "short-description": "小雨是一家专业的求职招聘平台，连接求职者与优质企业。发现小雨职位、职业发展机会和最新招聘信息，为您的职业目标量身打造。",
+    "description": "简介",
+    "view-detail": "工作详情",
+    "search-placeholder": "搜索关联词，或者短语 ...",
+    "search-result": "为您找到 {total} 条结果",
+    "advert": "敬请期待 — 精彩更新即将到来",
+    "advert-label": "广告",
+    "search-label": "搜索工作",
+    "filter-label": "筛选工作",
+    "job-label": "职位列表",
+    "footer-hr-label": "联系我们",
+    "footer-hr-btn": "点击联系我们",
+    "tag": "招聘平台",
+    "title": "小雨优聘 · 职为你来",
+    "subtitle": "海量优质职位，匹配你的价值！",
+    "btn-reset-filter": "重置筛选",
+    "btn-reset-keyword": "重置关键词",
+    "btn-home": "返回首页"
+  },
+  "page": {
+    "not-found": {
+      "title": "页面未找到",
+      "sub-title": "此页面暂时不可用，请查看其他页面",
+      "btn": "返回首页"
+    },
+    "error": {
+      "title": "服务器开小差了",
+      "sub-title": "请稍后再试",
+      "btn": "返回首页"
+    }
+  },
+  "components": {
+    "mobile-filter": {
+      "title": "筛选工作条件",
+      "subtitle": "根据所选条件查找岗位信息",
+      "btn-reset": "重置条件",
+      "btn-filter": "开始筛选"
+    },
+    "filter-labels": {
+      "search": "输入关键词，找工作 ...",
+      "location": "地区",
+      "job-position": "岗位类型",
+      "job-type": "工作类型",
+      "experience": "工作经验",
+      "position-level": "岗位职级",
+      "qualification": "学历",
+      "btn-search": "搜索工作"
+    },
+    "detail": {
+      "company-intro": "公司介绍",
+      "job-desc": "职位描述",
+      "job-requirement": "任职要求",
+      "job-responsibility": "工作职责",
+      "job-benefit": "工作福利",
+      "features": {
+        "job-position": "工作岗位",
+        "job-type": "工作类型",
+        "recruit-gender": "招聘性别",
+        "qualification": "学历要求",
+        "job-exp": "工作经验",
+        "working-hours": "工作时长",
+        "open-positions": "招聘人数",
+        "working-time": "工作时间"
+      },
+      "exp-date": "截止日期",
+      "btn": "点击联系"
+    },
+    "job-card": {
+      "close-label": "截止日期",
+      "view-label": "查看详情",
+      "urgent": "紧急",
+      "recruit": "招聘",
+      "position": "{position} 人"
+    },
+    "list-empty-state": {
+      "title": "暂无可用职位",
+      "subtitle": "我们将持续为您寻找合适的职位"
+    },
+    "search-empty-state": {
+      "title": "未找到相关职位",
+      "subtitle": "抱歉，请尝试使用其他相关关键词进行搜索"
+    }
+  }
+}

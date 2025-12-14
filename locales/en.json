@@ -1,0 +1,89 @@
+{
+  "common": {
+    "home": "Home",
+    "choose-language": "Choose language",
+    "coptyright": "© {year} Light Rain. All Right Reserved.",
+    "short-description": "Light Rain is a professional job recruitment platform that connects job seekers with quality employers. Discover high-paying positions, career development opportunities, and the latest job listings—tailored to your career goals.",
+    "description": "Introduction",
+    "view-detail": "Job detail",
+    "search-placeholder": "Search related words or phrases ...",
+    "search-result": "Result {total} found",
+    "advert": "Stay Tuned — Exciting Updates Ahead",
+    "advert-label": "Advert",
+    "search-label": "Search Job",
+    "filter-label": "Filter Job",
+    "job-label": "Job Listing",
+    "footer-hr-label": "Contact Us",
+    "footer-hr-btn": "Contact Now",
+    "tag": "Recruit Platform",
+    "title": "High-Salary Hiring · Jobs",
+    "subtitle": "Thousands of quality positions, matching your true value!",
+    "btn-reset-filter": "Reset Filter",
+    "btn-reset-keyword": "Reset keywords",
+    "btn-home": "Back Home"
+  },
+  "page": {
+    "not-found": {
+      "title": "Page Not Found",
+      "sub-title": "This page is temporarily unavailable, please check other pages.",
+      "btn": "Return to Home"
+    },
+    "error": {
+      "title": "The server is having issues",
+      "sub-title": "Please try again later",
+      "btn": "Return to Home"
+    }
+  },
+  "components": {
+    "mobile-filter": {
+      "title": "Filter Job Criteria",
+      "subtitle": "Find job information based on the selected criteria",
+      "btn-reset": "Reset Filters",
+      "btn-filter": "Apply Filters"
+    },
+    "filter-labels": {
+      "search": "Enter keywords to find jobs ...",
+      "location": "Location",
+      "job-position": "Job Position",
+      "job-type": "Job Type",
+      "experience": "Experience",
+      "position-level": "Position Level",
+      "qualification": "Education",
+      "btn-search": "Search Job"
+    },
+    "detail": {
+      "company-intro": "Corporate Profile",
+      "job-desc": "Job Description",
+      "job-requirement": "Job Requirement",
+      "job-responsibility": "Job Responsibility",
+      "job-benefit": "Job Benefit",
+      "features": {
+        "job-position": "Job Position",
+        "job-type": "Job Type",
+        "recruit-gender": "Recruit Gender",
+        "qualification": "Qualification",
+        "job-exp": "Job Experience",
+        "working-hours": "Working Hours",
+        "open-positions": "Open Positions",
+        "working-time": "Working Time"
+      },
+      "exp-date": "Expire At",
+      "btn": "Contact Us"
+    },
+    "job-card": {
+      "close-label": "Close Date",
+      "view-label": "View detail",
+      "urgent": "Urgent",
+      "recruit": "",
+      "position": "{position, plural, =1 {Opening} other {# Openings}}"
+    },
+    "list-empty-state": {
+      "title": "There is no job available",
+      "subtitle": "We will try looking for the job for you."
+    },
+    "search-empty-state": {
+      "title": "Job not found",
+      "subtitle": "Sorry, please try searching with other related keywords"
+    }
+  }
+}
