@@ -1,0 +1,14 @@
+version: "3.9"
+
+services:
+  web:
+    container_name: zhaopin_v1
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: zhaopin_v1
+    ports:
+      - "3000:3000"
+    restart: unless-stopped
+    environment:
+      NODE_ENV: production
